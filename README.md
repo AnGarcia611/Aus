@@ -1,4 +1,4 @@
-# Repository to Data Upskiil program
+# Repository to Data Upskill program
 
 ## Weather forecast in Australia
 
